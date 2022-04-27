@@ -1,2 +1,8 @@
-# home-assistant-Fronius-modbus
-Modbus fronius home assistance (install test for now)
+# Modbus integration to Fronius invertes for home assistance
+
+**Just a test indegration project for now based on the Fronius Component**
+
+**This integration is NOT compatible with sensoAPP, only with multiMATIC app.**
+
+## Installations
+- Through HACS [custom repositories](https://hacs.xyz/docs/faq/custom_repositories/) !
