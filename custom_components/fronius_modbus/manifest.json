@@ -1,6 +1,6 @@
 {
   "domain": "fronius_modbus",
-  "name": "Fronius",
+  "name": "Fronius Modbus",
   "documentation": "",
   "dependencies": [],
   "iot_class": "local_polling",
