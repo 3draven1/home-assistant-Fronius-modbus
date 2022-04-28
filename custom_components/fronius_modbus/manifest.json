@@ -1,0 +1,10 @@
+{
+  "domain": "fronius_modbus",
+  "name": "Fronius",
+  "documentation": "",
+  "dependencies": [],
+  "iot_class": "local_polling",
+  "codeowners": ["@3draven1"],
+  "requirements": [],
+  "version": "v0.0.1"
+}
